@@ -1,6 +1,6 @@
-#Hospital Emergency Room Dashboard Project
+# Hospital Emergency Room Dashboard Project
 
-This project is a Hospital Emergency Room Dashboard created to analyze and visualize patient data in a simple and interactive way. The dashboard helps hospital staff understand patient flow, waiting time, admission status, and overall service quality.
+## This project is a Hospital Emergency Room Dashboard created to analyze and visualize patient data in a simple and interactive way. The dashboard helps hospital staff understand patient flow, waiting time, admission status, and overall service quality.
 
 Key Highlights:
 
